@@ -1,4 +1,4 @@
-<h1>Custom PC optimized for virtualization and gaming while balancing performance and budget.</h1>  
+<h1>Custom PC optimized for virtualization and gaming.</h1>  
 
 <h2>REQUIREMENTS</h2>  
 
