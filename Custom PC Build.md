@@ -34,3 +34,6 @@ BUILD PROCESS:
 <img width="4096" height="3072" alt="att r8-PLyIqTTyYInO7LNnbKkHUV6T9J56h2yiwywhCyVk" src="https://github.com/user-attachments/assets/63f2302d-b334-4691-969a-1419c4d7a16e" />
 8. Installed GPU, front panel headers and WiFi adapter.
 <img width="4096" height="3072" alt="att o7036zhSLf-Ri2Yh-4qXheAUOPHSO1GfPQxy2K9dRhs" src="https://github.com/user-attachments/assets/f71f374e-a684-4994-b502-41bd2c2d4612" />
+9. Installed Windows 11 Pro.
+<img width="2559" height="1391" alt="Screenshot 2026-07-11 214319" src="https://github.com/user-attachments/assets/4635d524-971f-45a7-970a-69f6d3f3174a" />
+
