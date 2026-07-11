@@ -1,5 +1,5 @@
 <h1>Custom PC optimized for virtualization and gaming.</h1>  
-
+</br>
 <h2>REQUIREMENTS</h2>  
 
 - Budget £700  
