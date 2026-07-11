@@ -12,7 +12,7 @@
   
 | Component | Model | Reason |
 |-----------|-------|--------|
-| CPU | Ryzen 7 3700X | 8 cores |
+| CPU | Ryzen 7 3700X | 8 cores / 16 threads |
 | GPU | RTX 3060 12GB | VRAM and DLSS |
 | RAM | Micron DDR4 32GB 2666MHz | Capable of running few VMs |
 | PSU | MWE Bronze 650W | Budget and reliable |
