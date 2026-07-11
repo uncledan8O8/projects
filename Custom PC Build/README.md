@@ -1,12 +1,14 @@
-OBJECTIVE:  
-- Built custom PC optimized for virtualization and gaming while balancing performance and budget.
+<h1>Custom PC optimized for virtualization and gaming while balancing performance and budget.</h1>  
 
-REQUIREMENTS:  
-- Budget £700
+<h2>REQUIREMENTS</h2>  
+
+- Budget £700  
+
 - Capable of running virtual machines
-- 60FPS on 1440p monitor
+  
+- 60FPS on 1440p monitor  
 
-COMPONENT SELECTION:  
+<h2>COMPONENT SELECTION</h2>  
   
 | Component | Model | Reason |
 |-----------|-------|--------|
@@ -17,7 +19,7 @@ COMPONENT SELECTION:
 | NVMe SSD | WD WDS100T2B0C 1TB | Fast storage |
 | SATA SSD | Integral V Series 240GB | Dual boot Windows with Linux |
 
-BUILD PROCESS:  
+<h2>BUILD PROCESS</h2>    
 1. Prepared components on non conductive wooden desk while wearing anti static wristband.
 <img width="4096" height="3072" alt="att G6QVM-GibjAFnveib6usI8qfSC8s4jXkrVAQ5luCCMM" src="https://github.com/user-attachments/assets/62473651-e077-42dc-87fd-70da59ae1eb1" />
 2. Installed front fans blowing air in to maximize airflow.
