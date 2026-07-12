@@ -8,3 +8,11 @@
 - VM cloning
 - Basic virtual networking
 - VM portability and backup
+
+<h2>INSTALLATION</h2>  
+
+- Downloaded VMware Workstation Pro from Broadcom.
+- Installed using the default configuration.
+- Verified hardware virtualization (Intel VT-x/AMD-V) was enabled.
+- Confirmed VMware launched successfully.
+
