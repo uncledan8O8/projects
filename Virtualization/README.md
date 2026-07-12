@@ -19,7 +19,7 @@
 <h2>VM CREATION</h2>  
 
 Configuration:  
-| Setting | Windows 11 | Windows Server 2022 | Ubuntu Server 26.04 LTS |
+| Guest OS | Windows 11 | Windows Server 2022 | Ubuntu Server 26.04 LTS |
 |---------|------------|---------------------|-------------------------|
 | CPUs | 4 | 4 | 4 |
 | Memory | 6GB | 8GB | 8GB |
