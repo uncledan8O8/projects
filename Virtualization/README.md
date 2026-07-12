@@ -25,3 +25,6 @@ Configuration:
 | Memory | 6GB | 8GB | 8GB |
 | Disk | 50GB | 60GB | 40GB |
 | Network | Bridged | Bridged | Bridged |
+
+Steps:
+- asdasd
