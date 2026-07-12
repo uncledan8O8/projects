@@ -16,3 +16,4 @@
 - Verified hardware virtualization (Intel VT-x/AMD-V) was enabled.
 - Confirmed VMware launched successfully.
 
+<h2>VM CREATION</h2>
