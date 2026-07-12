@@ -16,4 +16,12 @@
 - Verified hardware virtualization (Intel VT-x/AMD-V) was enabled.
 - Confirmed VMware launched successfully.
 
-<h2>VM CREATION</h2>
+<h2>VM CREATION</h2>  
+
+Configuration:  
+| Setting | Windows 11 | Windows Server 2022 | Ubuntu Server 26.04 LTS |
+|---------|------------|---------------------|-------------------------|
+| CPUs | 4 | 4 |
+| Memory | 8GB | 8 GB |
+| Disk | 50GB | 60GB |
+| Network | Bridged | Bridged | 
