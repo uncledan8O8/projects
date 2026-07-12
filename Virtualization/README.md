@@ -21,7 +21,7 @@
 Configuration:  
 | Setting | Windows 11 | Windows Server 2022 | Ubuntu Server 26.04 LTS |
 |---------|------------|---------------------|-------------------------|
-| CPUs | 4 | 4 |
-| Memory | 8GB | 8 GB |
-| Disk | 50GB | 60GB |
-| Network | Bridged | Bridged | 
+| CPUs | 4 | 4 | 4 |
+| Memory | 6GB | 8GB | 8GB |
+| Disk | 50GB | 60GB | 40GB |
+| Network | Bridged | Bridged | Bridged |
