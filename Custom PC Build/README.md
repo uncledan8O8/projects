@@ -24,7 +24,7 @@
 <img width="4096" height="3072" alt="att G6QVM-GibjAFnveib6usI8qfSC8s4jXkrVAQ5luCCMM" src="https://github.com/user-attachments/assets/62473651-e077-42dc-87fd-70da59ae1eb1" />
 2. Installed front fans blowing air in to maximize airflow.
 <img width="4094" height="3070" alt="att epHAWuLZrUvIeCnHsKWD9J7jTLZoen6BCkGf_lqV3vY" src="https://github.com/user-attachments/assets/d523600d-55a8-4608-ab98-7c8652bc0863" />
-3. Installed CPU and cooler with fan blowing at heatsing.
+3. Installed CPU and cooler with fan blowing at heatsink.
 <img width="4096" height="3072" alt="att PtAUkdooO9GpdyFvlG0rCgkQmRWI78ziK-Uq1Hg_3Ac" src="https://github.com/user-attachments/assets/0fe716ae-31ed-4e6e-9116-93e51bcafdf1" />
 4. Installed NVMe SSD and RAM in channel 2 and 4 to enable dual-channel mode
 <img width="4032" height="3024" alt="att cp6MhJr5CPqtx17gn_H6V3vwuZUxrTRPNv9tmbIWzsg" src="https://github.com/user-attachments/assets/9804c603-5a2f-4885-b9e6-76ba73aff1ce" />
