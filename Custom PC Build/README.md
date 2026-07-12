@@ -32,7 +32,7 @@
 <img width="4096" height="3072" alt="att NopRuuxdMhTh9Vh-Gf6sRfvYYv785ugyRZzpx02Da_c" src="https://github.com/user-attachments/assets/976789d2-bd12-438b-9529-9d10011228a7" />
 6. Mounted PSU and connected cables to motherboard.
 <img width="4096" height="3072" alt="att m7T2DF2KotuCZ3-AXOd3haJ4ST-_1ZaGRc2sQgB7IY4" src="https://github.com/user-attachments/assets/4a2b4df1-7b3c-4e4b-9c53-5b1baddce318" />
-7. Managed cables to maximize airflow and aestetics.
+7. Managed cables to maximize airflow and aesthetics.
 <img width="4096" height="3072" alt="att r8-PLyIqTTyYInO7LNnbKkHUV6T9J56h2yiwywhCyVk" src="https://github.com/user-attachments/assets/63f2302d-b334-4691-969a-1419c4d7a16e" />
 8. Installed GPU, front panel headers and WiFi adapter.
 <img width="4096" height="3072" alt="att o7036zhSLf-Ri2Yh-4qXheAUOPHSO1GfPQxy2K9dRhs" src="https://github.com/user-attachments/assets/f71f374e-a684-4994-b502-41bd2c2d4612" />
