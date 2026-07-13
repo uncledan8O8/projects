@@ -27,4 +27,11 @@ Configuration:
 | Network | Bridged | Bridged | Bridged |
 
 Steps:
-- asdasd
+- Clicked 'Create a New Virtual Machine'
+- Chose 'Typical' configuration
+- Selected OS ISO
+- Created Virtual Disk stored as a single file
+- Allocated CPUs and Memory
+- Configured network adapter to use Bridged
+- Finished wizard, powered on VM and verified that everything works
+
