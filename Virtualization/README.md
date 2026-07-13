@@ -19,7 +19,7 @@
 <h2>VM CREATION</h2>  
 
 Configuration:  
-| Guest OS | Windows 11 Enterprise | Windows Server 2022 | Ubuntu Server 26.04 LTS |
+| Guest OS | Windows 11 Enterprise Evaluation | Windows Server 2022 Evaluation | Ubuntu Server 26.04 LTS |
 |---------|------------|---------------------|-------------------------|
 | CPUs | 4 | 4 | 4 |
 | Memory | 6GB | 8GB | 8GB |
@@ -33,5 +33,15 @@ Steps:
 - Created Virtual Disk stored as a single file
 - Allocated CPUs and Memory
 - Configured network adapter to use Bridged
-- Finished wizard, powered on VM and verified that everything works
-- Installed VMware Tools on all VMs
+- Finished wizard and powered on VMs
+- Installed VMware Tools
+
+Results:  
+- Windows 11 Enterprise Evaluation worked
+- Windows Server 2022 Evaluation asked for product key
+
+Solution:
+- Chose 'I will install operating system later'
+- Finished wizard and added ISO to Virtual CD/DVD Drive
+- Powered on VM and confirmed that it works
+
