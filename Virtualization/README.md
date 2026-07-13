@@ -34,4 +34,4 @@ Steps:
 - Allocated CPUs and Memory
 - Configured network adapter to use Bridged
 - Finished wizard, powered on VM and verified that everything works
-
+- Installed VMware Tools on all VMs
