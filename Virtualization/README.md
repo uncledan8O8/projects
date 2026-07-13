@@ -29,7 +29,7 @@ Configuration:
 Steps:
 - Clicked 'Create a New Virtual Machine'
 - Chose 'Typical' configuration
-- Selected OS ISO
+- Selected ISO
 - Created Virtual Disk stored as a single file
 - Allocated CPUs and Memory
 - Configured network adapter to use Bridged
