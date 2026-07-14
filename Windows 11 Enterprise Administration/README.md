@@ -6,3 +6,15 @@ Gain hands-on experience administrating Windows 11 Enterprise by completing comm
 
 - Local user management
 - Windows Security
+- BitLocker
+- Windows Firewall
+- Software installation
+- Windows Update
+- Remote Desktop
+- File sharing
+- Event Viewer
+- Device Manager
+- Disk Management
+- Troubleshooting
+
+<h2>USER ADMINISTRATION</h2>
