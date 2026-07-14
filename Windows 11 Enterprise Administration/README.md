@@ -4,5 +4,5 @@
 Gain hands-on experience administrating Windows 11 Enterprise by completing common tasks.
 <h2>SKILLS DEMONSTRATED</h2>  
 
--Local user management
--Windows Security
+- Local user management
+- Windows Security
