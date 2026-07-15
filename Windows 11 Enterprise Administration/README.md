@@ -19,7 +19,8 @@ Gain hands-on experience administrating Windows 11 Enterprise by completing comm
 
 <h2>USER ADMINISTRATION</h2>
 
-<h3>Steps:</h3>
+<h3>Steps:</h3>  
+
 - Open Computer Management
 - Navigate to Users and Groups
 - Create Standard User
