@@ -1,6 +1,6 @@
 <h1>VMware Workstation Pro Virtualization</h1>
 </br>
-<h2>OBJECTIVES</h2>  
+<h2>Objectives</h2>  
 
 - Install VMware Workstation Pro
 - VMs creation and hardware configuration
@@ -9,14 +9,14 @@
 - Basic virtual networking
 - VM portability and backup
 
-<h2>INSTALLATION</h2>  
+<h2>Installation</h2>  
 
 - Downloaded VMware Workstation Pro from Broadcom.
 - Installed using the default configuration.
 - Verified hardware virtualization (Intel VT-x/AMD-V) was enabled.
 - Confirmed VMware launched successfully.
 
-<h2>VM CREATION</h2>  
+<h2>VM Creation</h2>  
 
 Configuration:  
 | Guest OS | Windows 11 Enterprise Evaluation | Windows Server 2022 Evaluation | Ubuntu Server 26.04 LTS |
