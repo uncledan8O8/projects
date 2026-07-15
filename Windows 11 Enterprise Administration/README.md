@@ -1,8 +1,8 @@
 <h1>Windows 11 Enterprise Administration Lab</h1>
 </br>
-<h2>OBJECTIVE</h2>
+<h2>Objective</h2>
 Gain hands-on experience administrating Windows 11 Enterprise by completing common tasks.
-<h2>SKILLS DEMONSTRATED</h2>  
+<h2>Skills Demonstrated</h2>  
 
 - Local user management
 - Windows Security
@@ -17,7 +17,7 @@ Gain hands-on experience administrating Windows 11 Enterprise by completing comm
 - Disk Management
 - Troubleshooting
 
-<h2>USER ADMINISTRATION</h2>
+<h2>User Administration</h2>
 
 <h3>Objective</h3>
 Create different user accounts and assign permissions.
@@ -31,5 +31,5 @@ Create different user accounts and assign permissions.
 - Test login
 <img width="983" height="705" alt="Screenshot 2026-07-15 195827" src="https://github.com/user-attachments/assets/0e4a4b25-be39-406f-8b1b-4d9eb2db1332" />
 
-<h2>WINDOWS SECURITY</h2>  
+<h2>Windows Security</h2>  
 
