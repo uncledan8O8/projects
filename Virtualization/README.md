@@ -26,7 +26,8 @@ Configuration:
 | Disk | 50GB | 60GB | 40GB |
 | Network | Bridged | Bridged | Bridged |
 
-Steps:
+<h4>Steps:</h4>  
+
 - Clicked 'Create a New Virtual Machine'
 - Chose 'Typical' configuration
 - Selected ISO
@@ -36,11 +37,13 @@ Steps:
 - Finished wizard and powered on VMs
 - Installed VMware Tools
 
-Results:  
+<h4>Results:</h4>  
+
 - Windows 11 Enterprise Evaluation worked
 - Windows Server 2022 Evaluation asked for product key
 
-Solution:
+<h4>Solution:</h4>  
+
 - Chose 'I will install operating system later'
 - Finished wizard and added ISO to Virtual CD/DVD Drive
 - Powered on VM and confirmed that it works
