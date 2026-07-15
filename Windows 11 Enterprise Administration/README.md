@@ -19,7 +19,9 @@ Gain hands-on experience administrating Windows 11 Enterprise by completing comm
 
 <h2>USER ADMINISTRATION</h2>
 
-<h3>Steps:</h3>  
+<h3>Objective</h3>
+Create different user accounts and assign permissions.
+<h4>Steps:</h4>  
 
 - Open Computer Management
 - Navigate to Users and Groups
@@ -28,3 +30,6 @@ Gain hands-on experience administrating Windows 11 Enterprise by completing comm
 - Add Administrator user to Administrators group
 - Test login
 <img width="983" height="705" alt="Screenshot 2026-07-15 195827" src="https://github.com/user-attachments/assets/0e4a4b25-be39-406f-8b1b-4d9eb2db1332" />
+
+<h2>WINDOWS SECURITY</h2>  
+
