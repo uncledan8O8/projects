@@ -49,7 +49,8 @@ Configuration:
 - Finished wizard and added ISO to Virtual CD/DVD Drive
 - Powered on VM and confirmed that it works
 2. VMs were not able to ping each other
-<h4>Solution</h4>
+<h4>Solution</h4>  
+
 - Enabled firewall inbound rule "File and Printer Sharing (Echo Request - ICMPv4-In)"
 
 
