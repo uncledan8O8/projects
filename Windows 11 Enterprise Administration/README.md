@@ -33,3 +33,18 @@ Create different user accounts and assign permissions.
 
 <h2>Windows Security</h2>  
 
+<h3>Objective</h3>  
+Review the Windows Security to ensure system is protected.
+
+<h3>Virus & Threat Protection</h3>
+
+- Confirmed that Microsoft Defender was enabled
+- Performed Quick Scan
+- Verified that no threats were found
+
+<h3>Firewall & Network Protection</h3>  
+
+- Confirmed that firewall is turned on
+- Added inbound rule for port 22/tcp
+
+<h3></h3>
