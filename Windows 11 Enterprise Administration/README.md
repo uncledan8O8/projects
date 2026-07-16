@@ -58,3 +58,7 @@ Review the Windows Security to ensure system is protected.
 <h3>Results</h3>
 
 No threats were found and all major system protections were enabled.
+</br>
+
+<img width="1201" height="931" alt="Screenshot 2026-07-16 191231" src="https://github.com/user-attachments/assets/4e139189-ad33-4ef1-89a0-3f606288f1e9" />
+
