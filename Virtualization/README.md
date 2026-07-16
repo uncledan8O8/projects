@@ -40,11 +40,16 @@ Configuration:
 <h4>Results:</h4>  
 
 - Windows 11 Enterprise Evaluation worked
-- Windows Server 2022 Evaluation asked for product key
 
-<h4>Solution:</h4>  
+<h4>Problems encountered</h4>
+1. Windows Server 2022 Evaluation asked for licence key
+<h4>Solution</h4>  
 
 - Chose 'I will install operating system later'
 - Finished wizard and added ISO to Virtual CD/DVD Drive
 - Powered on VM and confirmed that it works
+2. VMs were not able to ping each other
+<h4>Solution</h4>
+- Enabled firewall inbound rule "File and Printer Sharing (Echo Request - ICMPv4-In)"
+
 
