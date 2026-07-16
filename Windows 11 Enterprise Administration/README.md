@@ -51,3 +51,10 @@ Review the Windows Security to ensure system is protected.
 
 - Confirmed that SmartScreen and Smart App Control is enabled to help protect system against malicious websites and applications
 
+<h3>Device Security</h3>  
+
+- Reviewed Device Security and confirmed that system did not report any issues 
+
+<h3>Results</h3>
+
+No threats were found and all major system protections were enabled.
