@@ -60,5 +60,16 @@ Review the Windows Security to ensure system is protected.
 No threats were found and all major system protections were enabled.
 </br>
 
-<img width="1201" height="931" alt="Screenshot 2026-07-16 191231" src="https://github.com/user-attachments/assets/4e139189-ad33-4ef1-89a0-3f606288f1e9" />
+<img width="1201" height="931" alt="Screenshot 2026-07-16 191231" src="https://github.com/user-attachments/assets/4e139189-ad33-4ef1-89a0-3f606288f1e9" />  
+
+<h2>Windows Update</h2>
+<h3>Objective</h3>
+Ensure all security and other updates are installed
+
+<h4>Steps performed</h4>  
+
+- Checked for updates
+- Installed all available updates
+- Verified that system function correctly
+<img width="1197" height="933" alt="Screenshot 2026-07-16 191908" src="https://github.com/user-attachments/assets/7f28c7e3-3ce1-4dfb-a665-78b47a8d87c2" />
 
