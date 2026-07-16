@@ -34,7 +34,7 @@
 - Selected ISO
 - Created Virtual Disk stored as a single file
 - Allocated CPUs and Memory
-- Configured network adapter to use Bridged
+- Configured network adapter to use Bridged to allow VMs communicate with each other and host
 - Finished wizard and powered on VMs
 - Installed VMware Tools
 
