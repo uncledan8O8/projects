@@ -18,7 +18,8 @@
 
 <h2>VM Creation</h2>  
 
-Configuration:  
+<h4>Configuration:</h4>  
+
 | Guest OS | Windows 11 Enterprise Evaluation | Windows Server 2022 Evaluation | Ubuntu Server 26.04 LTS |
 |---------|------------|---------------------|-------------------------|
 | CPUs | 4 | 4 | 4 |
@@ -41,14 +42,14 @@ Configuration:
 
 - Windows 11 Enterprise Evaluation worked
 
-<h4>Problems encountered</h4>
-1. Windows Server 2022 Evaluation asked for licence key
+<h3>Problems encountered</h3>
+<h4>1. Windows Server 2022 Evaluation asked for licence key</h4>
 <h4>Solution</h4>  
 
 - Chose 'I will install operating system later'
 - Finished wizard and added ISO to Virtual CD/DVD Drive
 - Powered on VM and confirmed that it works
-2. VMs were not able to ping each other
+<h4>2. VMs were not able to ping each other</h4>
 <h4>Solution</h4>  
 
 - Enabled firewall inbound rule "File and Printer Sharing (Echo Request - ICMPv4-In)"
