@@ -47,4 +47,7 @@ Review the Windows Security to ensure system is protected.
 - Confirmed that firewall is turned on
 - Added inbound rule for port 22/tcp
 
-<h3></h3>
+<h3>App & Browser Control</h3>  
+
+- Confirmed that SmartScreen and Smart App Control is enabled to help protect system against malicious websites and applications
+
