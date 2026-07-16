@@ -73,3 +73,12 @@ Ensure all security and other updates are installed
 - Verified that system function correctly
 <img width="1197" height="933" alt="Screenshot 2026-07-16 191908" src="https://github.com/user-attachments/assets/7f28c7e3-3ce1-4dfb-a665-78b47a8d87c2" />
 
+<h2>Software Installation</h2>
+<h3>Applications installed:</h3>  
+
+- Brave Browser
+- VMware Workstation Pro
+- WinRAR
+- Verified that all applications function correctly
+<img width="1502" height="1046" alt="Screenshot 2026-07-16 192907" src="https://github.com/user-attachments/assets/6acc6cd5-4f6f-4640-b797-69b2a1e762d3" />
+
