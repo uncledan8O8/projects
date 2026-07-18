@@ -79,6 +79,8 @@ Ensure all security and other updates are installed
 - Brave Browser
 - VMware Workstation Pro
 - WinRAR
-- Verified that all applications function correctly
+
+Verified that all applications function correctly  
+</br>
 <img width="1502" height="1046" alt="Screenshot 2026-07-16 192907" src="https://github.com/user-attachments/assets/6acc6cd5-4f6f-4640-b797-69b2a1e762d3" />
 
