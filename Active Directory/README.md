@@ -71,14 +71,17 @@ Active Directory Domain Services and DNS Server installed successfully
 <h3>Objective</h3>
 Create OUs to easily apply rules to different groups.  
 
-domain.local/Company:
+<h3>Structure</h3>  
+
+domain.local/Company:  
+
 Departments:  
 
 - IT
 - HR
 - Sales
-Groups:
 
+Groups:
 - IT
 - HR
 - Sales
