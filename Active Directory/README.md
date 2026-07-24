@@ -38,4 +38,25 @@ Install Windows Server 2022 on VMware Workstation Pro to use as domain controlle
 <h3>Objective</h3>
 Install and configure Active Directory Domain Services on Windows Server 2022 and promote the server to domain controller.  
 
-<h3
+<h3>Installation process</h3>
+
+- Opened Server Manager
+- Select "Add roles and features"
+- Chose "Role-based or feature-based installation"
+- Chose local server
+- Selected Active Directory Domain Services
+- Completed installation wizard
+
+<h3>Promote server to domain controller</h3>  
+
+- Opened Server Manager
+- Clicked Notification flag
+- Selected "Promote this server to a domain controller"
+- Selected "Add a new forest"
+- Named domain
+- Selected Domain function level: Windows Server 2016
+- Selected Domain function level: Windows Server 2016
+- Enabled DNS Server
+- Created DSRM password
+- Completed installation wizard
+- Verified that 
