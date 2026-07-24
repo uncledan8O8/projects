@@ -112,3 +112,14 @@ Sales:
 <h4>Added users to Security Groups</h4>  
 <img width="751" height="503" alt="Screenshot 2026-07-24 213133" src="https://github.com/user-attachments/assets/7eb578e4-cac9-457c-8650-a957603784aa" />
 
+<h2>Join Windows 11 to the Domain</h2>  
+
+<h3>Objective</h3>
+Join Windows 11 machines to the Domain so users can authenticate using domain accounts.
+
+<h3>Steps performed</h3>  
+
+<h2>Configure DNS</h2>  
+Changed Prefered DNS on Windows 11 machines
+
+<img width="967" height="702" alt="Screenshot 2026-07-24 214043" src="https://github.com/user-attachments/assets/1f8223c4-f553-480c-9e3e-c06f1f705abe" />
