@@ -5,6 +5,7 @@ Learn and demonstrate basic Active Directory administration tasks using Windows 
 
 <h2>Skills Demonstrated</h2>  
 
+- Active Directory installation 
 - Domain Services configuration
 - Joining a system to domain
 - Creating Organizational Units (OUs)
