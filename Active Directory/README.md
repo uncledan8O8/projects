@@ -33,4 +33,4 @@ Install Windows Server 2022 on VMware Workstation Pro to use as domain controlle
 - Configured static IP
 - Renamed server to DC
 
-<h2>Active Directory Domain Services installation</h2>
+<h3>Active Directory Domain Services installation</h3>
