@@ -84,3 +84,23 @@ Verified that all applications function correctly
 </br>
 <img width="1502" height="1046" alt="Screenshot 2026-07-16 192907" src="https://github.com/user-attachments/assets/6acc6cd5-4f6f-4640-b797-69b2a1e762d3" />
 
+<h2>BitLocker</h2>
+<h3>Objective</h3>  
+Enable BitLocker Drive Encryption to prevent unauthorised access to operating system.
+
+<h4>Steps performed</h4>
+
+- Opened BitLocker Drive Encryption control panel
+- Selected C: Driver and clicked "Turn BitLocker on"
+- Saved recovery key to secure location
+- Selected "Encrypt entire drive"
+- Chose "Compatible Mode"
+- Started encryption process
+- Verified that drive C: is encrypted
+
+<h3>Results</h3>  
+
+BitLocker is enabled successfully. Operating system is now encrypted.
+
+</br>
+<img width="1121" height="868" alt="Screenshot 2026-07-24 161259" src="https://github.com/user-attachments/assets/b3144386-0f91-4537-a78b-20b89b119686" />
