@@ -31,3 +31,6 @@ Install Windows Server 2022 on VMware Workstation Pro to use as domain controlle
 - Verified that server is running correctly
 - Installed all available updates
 - Configured static IP
+- Renamed server to DC
+
+<h2>Active Directory Domain Services installation</h2>
