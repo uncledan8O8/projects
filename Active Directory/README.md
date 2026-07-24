@@ -60,7 +60,7 @@ Install and configure Active Directory Domain Services on Windows Server 2022 an
 - Created DSRM password
 - Completed installation wizard
 
-<h3>Result</h3>  
+<h3>Results</h3>  
 
 Active Directory Domain Services and DNS Server installed successfully
 
