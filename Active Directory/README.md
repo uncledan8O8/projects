@@ -15,3 +15,6 @@ Learn and demonstrate basic Active Directory administration tasks using Windows 
 - Unlocking User Accounts
 - Moving users between OUs
 - Basic Group Policy configuration
+
+<h2>Active Directory installation</h2>  
+
