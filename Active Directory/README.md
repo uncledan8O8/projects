@@ -138,7 +138,6 @@ Confirmed communication with Domain Controller
 <h3>Problem encountered</h3>  
 
 <h4>Error</h4>  
-"An Active Directory Domain Controller (AD DC) for the domain "domain.local" could not be contacted
 <img width="456" height="173" alt="Screenshot 2026-07-24 224240" src="https://github.com/user-attachments/assets/01399267-13fa-48fd-be33-1599ae1a1e9e" />
 
 <h4>Solution</h4>
