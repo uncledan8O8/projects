@@ -5,7 +5,7 @@ Learn and demonstrate basic Active Directory administration tasks using Windows 
 
 <h2>Skills Demonstrated</h2>  
 
-- Active Directory installation 
+- Windows Server 2022 installation
 - Domain Services configuration
 - Joining a system to domain
 - Creating Organizational Units (OUs)
@@ -16,5 +16,18 @@ Learn and demonstrate basic Active Directory administration tasks using Windows 
 - Moving users between OUs
 - Basic Group Policy configuration
 
-<h2>Active Directory installation</h2>  
+<h2>Windows Server 2022 installation</h2>  
 
+<h3>Objective</h3>  
+Install Windows Server 2022 on VMware Workstation Pro to use as domain controller.
+
+<h2>Installation process</h2>  
+
+- Downloaded Windows Server 2022 Evaluation ISO
+- Booted VM from ISO
+- Chose Windows Server 2022 Standard Evaluation (Desktop Experience)
+- Created new partition using entire virtual disk
+- Installed server
+- Verified that server is running correctly
+- Installed all available updates
+- Configured static IP
