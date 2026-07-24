@@ -121,5 +121,6 @@ Join Windows 11 machines to the Domain so users can authenticate using domain ac
 
 <h2>Configure DNS</h2>  
 Changed Prefered DNS on Windows 11 machines  
+</br>
 
 <img width="967" height="702" alt="Screenshot 2026-07-24 214043" src="https://github.com/user-attachments/assets/1f8223c4-f553-480c-9e3e-c06f1f705abe" />
