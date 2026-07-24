@@ -157,7 +157,7 @@ ipconfig /flushdns
 ipconfig /registerdns
 
 <h3>Results</h3>  
-Windows 11 machine successfully joined domain.local. User was able to authentucate using domain user account.
+Windows 11 machine successfully joined domain.local. User was able to authenticate using domain user account.
 
 <h2>Domain User Account Management</h2>
 
