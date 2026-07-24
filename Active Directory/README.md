@@ -21,7 +21,7 @@ Learn and demonstrate basic Active Directory administration tasks using Windows 
 <h3>Objective</h3>  
 Install Windows Server 2022 on VMware Workstation Pro to use as domain controller.
 
-<h4>Installation process</h4>  
+<h3>Installation process</h3>  
 
 - Downloaded Windows Server 2022 Evaluation ISO
 - Booted VM from ISO
@@ -33,4 +33,4 @@ Install Windows Server 2022 on VMware Workstation Pro to use as domain controlle
 - Configured static IP
 - Renamed server to DC
 
-<h3>Active Directory Domain Services installation</h3>
+<h2>Active Directory Domain Services installation</h2>
