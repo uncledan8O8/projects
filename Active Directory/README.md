@@ -93,5 +93,23 @@ Computers
 <h2>Create Users</h2>  
 
 <h3>Objective</h3>  
-Create users and add them to Security Groups.
+Create users and add them to Security Groups.  
 
+<h3>Structure</h3>  
+
+Departments:  
+
+IT:  
+
+- John Smith
+
+HR:  
+
+- Peter Parker
+
+Sales:  
+
+- Karen Jones
+
+<h4>Adding users to Security Groups</h4>  
+<img width="751" height="502" alt="Screenshot 2026-07-24 212453" src="https://github.com/user-attachments/assets/ba200db1-c580-42d1-9e03-bf107e7a0f2f" />
