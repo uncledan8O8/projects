@@ -84,11 +84,9 @@ Departments:
 Groups:
 - IT
 - HR
-- Sales
+- Sales  
 
-Computers
-
-<img width="749" height="526" alt="Screenshot 2026-07-24 211157" src="https://github.com/user-attachments/assets/7978eebe-e537-4a30-a293-29c821f9bd60" />
+<img width="751" height="527" alt="Screenshot 2026-07-24 230323" src="https://github.com/user-attachments/assets/66581684-f205-4ed4-b243-d5cf25fd2f3b" />  
 
 <h2>Create Users</h2>  
 
@@ -135,7 +133,11 @@ Confirmed communication with Domain Controller
 - Selected Member of Domain and chose domain name
 - Signed in with username and password
 - Restarted machine
-- Verified that all users can sign-in
+- Verified that all users can sign-in:  
+
+<img width="1146" height="860" alt="Screenshot 2026-07-24 230825" src="https://github.com/user-attachments/assets/4085348d-3ed5-4414-a060-1f64f23709e8" />
+
+<img width="1143" height="815" alt="Screenshot 2026-07-24 231107" src="https://github.com/user-attachments/assets/1b3ea6aa-955d-4ebd-a5c5-f3987f72178b" />
 
 <h3>Problem encountered</h3>  
 
@@ -153,3 +155,19 @@ Disabled IPv6 on the client:
 - Opened Command Prompt as Administrator and run:  
 ipconfig /flushdns  
 ipconfig /registerdns
+
+<h3>Results</h3>  
+Windows 11 machine successfully joined domain.local. User was able to authentucate using domain user account.
+
+<h2>Domain User Account Management</h2>
+
+<h3>Objective</h3>
+Simulate common Active Directory user account tasks performed by IT Technicians.
+
+<h3>Password reset</h3>  
+
+<h3>Unclock ccount</h3>  
+
+<h3>Disable user</h3>  
+
+<h3>Move users between OUs</h3>
