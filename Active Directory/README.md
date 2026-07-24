@@ -170,4 +170,17 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 
 <h3>Disable user</h3>  
 
-<h3>Move users between OUs</h3>
+<h3>Move users between OUs</h3>  
+
+
+<h2>Basic Group Policy</h2>  
+
+<h3>Password Policy</h3>  
+
+<h3>Account Lockout Policy</h3>  
+
+<h3>Desktop Wallpaper</h3>  
+
+<h3>Hide Control Panel</h3>  
+
+<h3>Map Network Drive</h3>
