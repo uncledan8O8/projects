@@ -21,7 +21,7 @@ Gain hands-on experience administrating Windows 11 Enterprise by completing comm
 
 <h3>Objective</h3>
 Create different user accounts and assign permissions.
-<h4>Steps:</h4>  
+<h4>Steps performed</h4>  
 
 - Opened Computer Management
 - Navigated to Users and Groups
@@ -96,7 +96,7 @@ Enable BitLocker Drive Encryption to prevent unauthorised access to operating sy
 - Selected "Encrypt entire drive"
 - Chose "Compatible Mode"
 - Started encryption process
-- Verified that drive C: is encrypted
+- Verified that drive C:\ is encrypted
 
 <h3>Results</h3>  
 
@@ -104,3 +104,25 @@ BitLocker is enabled successfully. Operating system is now encrypted.
 
 </br>
 <img width="1121" height="868" alt="Screenshot 2026-07-24 161259" src="https://github.com/user-attachments/assets/b3144386-0f91-4537-a78b-20b89b119686" />
+
+<h2>File Sharing</h2>
+<h3>Objective</h3>
+Create shared folder on Windows 11 and manage access using share permissions.
+
+<h4>Steps performed</h4>
+
+- Created folder named TEST in C:\ drive
+- Enabled file sharing for this folder
+- Mapped drive on other system
+- Configured share permissions: Administrators: Full, Standard Users: Read
+- Verified that shared folder is accessible from other system on network
+- Verified that administrators have full control and standard users have read only permission
+</br>
+
+Share Permissions  
+<img width="717" height="443" alt="Screenshot 2026-07-24 173119" src="https://github.com/user-attachments/assets/4fb6d8ae-6bf9-4831-803e-427f89384058" />  
+
+</br>
+
+Folder accessed from other system on network  
+<img width="1023" height="589" alt="Screenshot 2026-07-24 173606" src="https://github.com/user-attachments/assets/76187116-94f0-42d2-8c0c-60c8f733854c" />
