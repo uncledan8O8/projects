@@ -133,14 +133,23 @@ Confirmed communication with Domain Controller
 - Device specifications > Domain or workgroup
 - Chose "Change..."
 - Selected Member of Domain and chose domain name
-
+- Signed in with username and password
+- Restarted machine
+- Verified that all users can sign-in
 
 <h3>Problem encountered</h3>  
 
-<h4>Error</h4>  
+<h4>Error when tried to change domain</h4>  
 <img width="456" height="173" alt="Screenshot 2026-07-24 224240" src="https://github.com/user-attachments/assets/01399267-13fa-48fd-be33-1599ae1a1e9e" />
 
 <h4>Solution</h4>
-Disabled IPv6 on the client in Network and Sharing Center  
-<img width="820" height="625" alt="Screenshot 2026-07-24 224418" src="https://github.com/user-attachments/assets/097f1dc7-306b-4648-99de-38dcb650f679" />
+Disabled IPv6 on the client:  
 
+- Opened Control Panel > Network and Sharing Center
+- Selected Change adapter settings
+- Right-clicked Ethernet
+- Selected Properties
+- Unchecked Internet Protocol Version 6 (TCP/IPv6)
+- Opened Command Prompt as Administrator and run:  
+ipconfig /flushdns  
+ipconfig /registerdns
