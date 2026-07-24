@@ -107,6 +107,8 @@ HR:
 
 Sales:  
 - Karen Jones
+- Will Smith
 
 <h4>Added users to Security Groups</h4>  
-<img width="751" height="502" alt="Screenshot 2026-07-24 212453" src="https://github.com/user-attachments/assets/ba200db1-c580-42d1-9e03-bf107e7a0f2f" />
+<img width="751" height="503" alt="Screenshot 2026-07-24 213133" src="https://github.com/user-attachments/assets/7eb578e4-cac9-457c-8650-a957603784aa" />
+
