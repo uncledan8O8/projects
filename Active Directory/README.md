@@ -66,6 +66,23 @@ Active Directory Domain Services and DNS Server installed successfully
 
 <img width="1151" height="820" alt="Screenshot 2026-07-24 202654" src="https://github.com/user-attachments/assets/92d1649e-77f1-4adf-8621-a443f3c78615" /> 
 
-<h2>Organization Units</h2>  
+<h2>Organization Units and Users</h2>  
 
-<h3>Create OUs to easily apply rules to different groups</h3>
+<h3>Objective</h3>
+Create OUs to easily apply rules to different groups.  
+
+domain.local/Company:
+Departments:  
+
+- IT
+- HR
+- Sales
+Groups:
+
+- IT
+- HR
+- Sales
+
+Computers  
+
+
