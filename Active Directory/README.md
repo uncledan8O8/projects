@@ -100,15 +100,12 @@ Create users and add them to Security Groups.
 Departments:  
 
 IT:  
-
 - John Smith
 
 HR:  
-
 - Peter Parker
 
 Sales:  
-
 - Karen Jones
 
 <h4>Added users to Security Groups</h4>  
