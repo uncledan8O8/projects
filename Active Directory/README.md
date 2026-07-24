@@ -86,7 +86,7 @@ Groups:
 - HR
 - Sales
 
-Computers  
+Computers
 
 <img width="749" height="526" alt="Screenshot 2026-07-24 211157" src="https://github.com/user-attachments/assets/7978eebe-e537-4a30-a293-29c821f9bd60" />
 
@@ -126,4 +126,22 @@ Changed Prefered DNS on Windows 11 machines
 
 Confirmed communication with Domain Controller  
 <img width="974" height="508" alt="Screenshot 2026-07-24 214349" src="https://github.com/user-attachments/assets/235de8c6-4dbd-4aab-852f-2cbf30794953" />
+
+<h2>Join the Domain</h2>  
+
+- Settings > About
+- Device specifications > Domain or workgroup
+- Chose "Change..."
+- Selected Member of Domain and chose domain name
+
+
+<h3>Problem encountered</h3>  
+
+<h4>Error</h4>  
+"An Active Directory Domain Controller (AD DC) for the domain "domain.local" could not be contacted
+<img width="456" height="173" alt="Screenshot 2026-07-24 224240" src="https://github.com/user-attachments/assets/01399267-13fa-48fd-be33-1599ae1a1e9e" />
+
+<h4>Solution</h4>
+Disabled IPv6 on the client in Network and Sharing Center  
+<img width="820" height="625" alt="Screenshot 2026-07-24 224418" src="https://github.com/user-attachments/assets/097f1dc7-306b-4648-99de-38dcb650f679" />
 
