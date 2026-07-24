@@ -126,3 +126,14 @@ Share Permissions
 
 Folder accessed from other system on network  
 <img width="1023" height="589" alt="Screenshot 2026-07-24 173606" src="https://github.com/user-attachments/assets/76187116-94f0-42d2-8c0c-60c8f733854c" />
+
+<h2>Remote Desktop</h2>
+
+<h3>Objective</h3>
+Configure Remote Desktop to allow remote administration of Windows 11.
+
+<h4>Steps performed</h4>
+
+- Opened: Settings > System > Remote Desktop
+- Enabled Remote Desktop
+-  
