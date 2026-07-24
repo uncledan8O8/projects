@@ -66,7 +66,7 @@ Active Directory Domain Services and DNS Server installed successfully
 
 <img width="1151" height="820" alt="Screenshot 2026-07-24 202654" src="https://github.com/user-attachments/assets/92d1649e-77f1-4adf-8621-a443f3c78615" /> 
 
-<h2>Organization Units and Users</h2>  
+<h2>Organization Units and Security Groups</h2>  
 
 <h3>Objective</h3>
 Create OUs to easily apply rules to different groups.  
@@ -88,4 +88,10 @@ Groups:
 
 Computers  
 
+<img width="749" height="526" alt="Screenshot 2026-07-24 211157" src="https://github.com/user-attachments/assets/7978eebe-e537-4a30-a293-29c821f9bd60" />
+
+<h2>Create Users</h2>  
+
+<h3>Objective</h3>  
+Create users and add them to Security Groups.
 
