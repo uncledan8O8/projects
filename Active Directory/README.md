@@ -88,7 +88,7 @@ Groups:
 
 <img width="751" height="527" alt="Screenshot 2026-07-24 230323" src="https://github.com/user-attachments/assets/66581684-f205-4ed4-b243-d5cf25fd2f3b" />  
 
-<h2>Create Users</h2>  
+<h2>User Creations</h2>  
 
 <h3>Objective</h3>  
 Create users and add them to Security Groups.  
