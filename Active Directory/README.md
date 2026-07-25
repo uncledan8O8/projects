@@ -115,8 +115,6 @@ Sales:
 <h3>Objective</h3>
 Join Windows 11 machines to the Domain so users can authenticate using domain accounts.
 
-<h3>Steps performed</h3>  
-
 <h3>Configure DNS</h3>  
 
 Changed Prefered DNS on Windows 11 machines  
