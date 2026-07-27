@@ -183,6 +183,9 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 - Navigated to Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy
 
 <h4>Configuration</h4>
+
+| Setting | Value |
+|-------------------------|---------------|
 | Minimum password length | 12 characters |
 | Maximum password age | 60 days |
 | Password history | 30 passwords remembered |
