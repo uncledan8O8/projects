@@ -195,6 +195,14 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 
 <img width="785" height="562" alt="Screenshot 2026-07-27 191620" src="https://github.com/user-attachments/assets/94eb84a7-fb0c-40ea-adb4-66c4ab59a8ac" />
 
+<h4>Verification</h4>
+
+Password "spiderman" did not meet password length and complexity.
+<img width="786" height="591" alt="Screenshot 2026-07-27 192534" src="https://github.com/user-attachments/assets/3b0f553a-0230-4367-afbc-0a7f229ef2b9" />
+
+Password "Ilovecookies!123" meet password policy.
+<img width="698" height="506" alt="Screenshot 2026-07-27 192758" src="https://github.com/user-attachments/assets/0420991e-2535-437e-90d7-19837c7e2b22" />
+
 
 <h3>Account Lockout Policy</h3>  
 
