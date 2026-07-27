@@ -174,6 +174,20 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 <h2>Basic Group Policy</h2>  
 
 <h3>Password Policy</h3>  
+<h2>Steps performed</h2>  
+
+- Opened Server Manager
+- Selected Tools > Group Policy Management
+- Expanded Forest > Domains > domain.local
+- Right-cliecked Default Domain Policy > Edit...
+- Navigated to Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy
+
+<h4>Configuration</h4>
+| Minimum password length | 12 characters |
+| Maximum password age | 60 days |
+| Password history | 30 passwords remembered |
+| Password complexity | Enabled |
+
 
 <h3>Account Lockout Policy</h3>  
 
