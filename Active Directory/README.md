@@ -164,7 +164,7 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 
 <h3>Password reset</h3>  
 
-<h3>Unclock ccount</h3>  
+<h3>Unlock account</h3>  
 
 <h3>Disable user</h3>  
 
@@ -179,8 +179,10 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 - Opened Server Manager
 - Selected Tools > Group Policy Management
 - Expanded Forest > Domains > domain.local
-- Right-cliecked Default Domain Policy > Edit...
+- Right-clicked Default Domain Policy > Edit...
 - Navigated to Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy
+- Configured password policy
+- Ran command: gpupdate /force
 
 <h4>Configuration</h4>
 
@@ -188,7 +190,7 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 |-------------------------|---------------|
 | Minimum password length | 12 characters |
 | Maximum password age | 60 days |
-| Password history | 30 passwords remembered |
+| Password history | 24 passwords remembered |
 | Password complexity | Enabled |
 
 
