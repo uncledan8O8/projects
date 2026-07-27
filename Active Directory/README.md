@@ -188,10 +188,12 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 
 | Setting | Value |
 |-------------------------|---------------|
-| Minimum password length | 12 characters |
-| Maximum password age | 60 days |
 | Password history | 24 passwords remembered |
+| Maximum password age | 60 days |
+| Minimum password length | 12 characters |
 | Password complexity | Enabled |
+
+<img width="785" height="562" alt="Screenshot 2026-07-27 191620" src="https://github.com/user-attachments/assets/94eb84a7-fb0c-40ea-adb4-66c4ab59a8ac" />
 
 
 <h3>Account Lockout Policy</h3>  
