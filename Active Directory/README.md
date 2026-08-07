@@ -273,7 +273,6 @@ Drive successfully mapped for members of HR group.
 
 <img width="778" height="585" alt="Screenshot from 2026-08-07 17-32-20" src="https://github.com/user-attachments/assets/b6afafa8-5b45-4e59-90f4-83bb39cecba3" />
 
-
 <h2>Domain User Account Management</h2>
 
 <h3>Objective</h3>
