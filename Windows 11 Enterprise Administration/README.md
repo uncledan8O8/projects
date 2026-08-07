@@ -13,9 +13,6 @@ Gain hands-on experience administrating Windows 11 Enterprise by completing comm
 - Remote Desktop
 - Disk Management
 - Device Manager
-- Event Viewer
-- Performance Monitoring
-- Troubleshooting
 
 <h2>User Administration</h2>
 
