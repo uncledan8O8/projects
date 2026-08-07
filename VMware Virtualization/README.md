@@ -6,7 +6,6 @@
 - VMs creation and hardware configuration
 - Snapshot creation and recovery
 - VM cloning
-- Basic virtual networking
 - VM portability and backup
 
 <h2>Installation</h2>  
