@@ -58,9 +58,9 @@ Install and configure Active Directory Domain Services on Windows Server 2022 an
 - Created DSRM password
 - Completed installation wizard
 
-<h3>Results</h3>  
+<h3>Verification</h3>  
 
-Active Directory Domain Services and DNS Server installed successfully
+Active Directory Domain Services and DNS Server installed successfully.
 
 <img width="1151" height="820" alt="Screenshot 2026-07-24 202654" src="https://github.com/user-attachments/assets/92d1649e-77f1-4adf-8621-a443f3c78615" /> 
 
@@ -129,7 +129,9 @@ Confirmed communication with Domain Controller
 - Selected Member of Domain and chose domain name
 - Signed in with username and password
 - Restarted machine
-- Verified that all users can sign-in:  
+
+<h3>Verification</h3>
+Windows 11 joined domain successfully and all users are able to sign-in.
 
 <img width="1146" height="860" alt="Screenshot 2026-07-24 230825" src="https://github.com/user-attachments/assets/4085348d-3ed5-4414-a060-1f64f23709e8" />
 
@@ -246,6 +248,22 @@ System displayed restriction error when attempted to open Control Panel.
 <img width="1147" height="810" alt="Screenshot from 2026-08-07 16-49-03" src="https://github.com/user-attachments/assets/e38fa863-a0a7-42ae-9d6b-964109349c16" />
 
 <h3>Map Network Drive</h3>
+
+<h4>Steps performed</h4>  
+
+- Created folder named HR-shared-folder and shared with HR
+- Opened Group Policy Management
+- Navigated to Forest > Domains > domain.local > Company > Departments
+- Right-clicked HR and created new GPO named HR Shared Folder
+- Navigated to User Configuration > Preferences > Windows Settings
+- Right-clicked Drive Maps > New > Mapped Drive
+- Configurations: Action > Create | Location > \\\DC\HR-shared-folder | Drive Letter > Use: Z
+- Ran command: gpupdate /force
+
+<h4>Verification</h4>
+Drive successfully mapped for members of HR group.
+<img width="778" height="585" alt="Screenshot from 2026-08-07 17-32-20" src="https://github.com/user-attachments/assets/b6afafa8-5b45-4e59-90f4-83bb39cecba3" />
+
 
 <h2>Domain User Account Management</h2>
 
