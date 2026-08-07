@@ -320,4 +320,15 @@ User is not able to sign-in.
 
 <h3>Move users between OUs</h3>  
 
+<h4>Steps performed</h4>  
 
+- Entered wrong password 5 times to lock account
+- Navigated to Active Directory Users and Computers > domain.local > Company > Departments > IT
+- Right-clicked user John JS. Smith and chose "Move"
+- Moved user form IT to HR
+
+<h4>Verification</h4>
+
+User John JS. Smith is member of HR.
+
+<img width="753" height="525" alt="Screenshot from 2026-08-07 18-18-47" src="https://github.com/user-attachments/assets/07ecfe0c-8459-466c-b5ff-abdbb0f04b81" />
