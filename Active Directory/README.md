@@ -1,4 +1,4 @@
-<h1>Active Directory</h1>  
+<h1>Active Directory Lab</h1>  
 </br>
 <h2>Objective</h2>
 Learn and demonstrate basic Active Directory administration tasks using Windows Server 2022.
