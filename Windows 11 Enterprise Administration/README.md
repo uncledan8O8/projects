@@ -168,6 +168,30 @@ Partition created successfully.
 
 <img width="894" height="593" alt="Screenshot from 2026-08-07 19-05-36" src="https://github.com/user-attachments/assets/4d21921e-e245-4cc1-a70b-ca84e9242302" />
 
+<h2>Device Manager</h2>  
+
+<h3>Objective</h3>
+Verify that drivers are installed.
+
+<h3>Steps performed</h3>
+
+- Pressed Win+R and entered devmgmt.msc
+- Confirmed that no devices have warning sign or missing drivers
+- Used Update Driver option to check for newer drivers
+
+<img width="773" height="562" alt="Screenshot from 2026-08-07 19-17-57" src="https://github.com/user-attachments/assets/770d9f6e-b424-41ea-96b2-5e9c276b9321" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
