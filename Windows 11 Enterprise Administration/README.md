@@ -145,8 +145,29 @@ Configure Remote Desktop to allow remote administration of Windows 11.
 
 <h4>Verification</h4>
 
-Administrator successfully connected to VM1 using Remote Desktop Connection.  
+Administrator connected to VM1 using Remote Desktop Connection.  
 
 <img width="1147" height="859" alt="Screenshot from 2026-08-07 18-52-13" src="https://github.com/user-attachments/assets/2b764b79-aff3-434d-b9e1-d2dd28cbc843" />
+
+<h2>Disk Management</h2>
+
+<h3>Objective</h3>
+Shrink partition and use that space to create new partition.
+
+<h3>Steps performed</h3>  
+
+- Pressed Win+R and entered diskmgmt.msc
+- Right-clicked (C:) partition and selected Shrink Volume
+- Entered the amount of space to shrink in MB: 20000
+- Right-clicked Unallocated space and selected New Simple Volume
+- Assigned drive letter E and finished wizard with default configuration
+
+<h3>Verification</h3>  
+
+Partition created successfully.  
+
+<img width="894" height="593" alt="Screenshot from 2026-08-07 19-05-36" src="https://github.com/user-attachments/assets/4d21921e-e245-4cc1-a70b-ca84e9242302" />
+
+
 
 
