@@ -306,6 +306,18 @@ User is able sign-in successfully.
 
 <h3>Disable user</h3>  
 
+<h4>Steps performed</h4>  
+
+- Entered wrong password 5 times to lock account
+- Navigated to Active Directory Users and Computers > domain.local > Company > Departments > HR
+- Right-clicked user Peter PP. Parker and chose "Disable Account"
+
+<h4>Verification</h4>  
+
+User is not able to sign-in.
+
+<img width="1137" height="852" alt="Screenshot from 2026-08-07 18-15-53" src="https://github.com/user-attachments/assets/5b1f55e0-3260-4932-b84d-bb478772750e" />
+
 <h3>Move users between OUs</h3>  
 
 
