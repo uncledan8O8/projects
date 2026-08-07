@@ -225,13 +225,27 @@ Attempt to log in with wrong password 5 times results in account lockout.
 - Navigated to Forest > Domains > domain.local
 - Right-clicked domain and created new GPO named Wallpaper
 - Navigated to User Configuration > Policies > Administrative Templates > Desktop > Desktop
-- Enabled Desktop Wallpaper and specified Shared Folder path \\DC\Wallpaper/wallpaper.jpg
+- Enabled "Desktop Wallpaper" and specified Shared Folder path \\DC\Wallpaper/wallpaper.jpg
 - Applied and ran command: gpupdate /force
 
 <h4>Verification<h4>
+Wallpaper is successfully changed.
 <img width="1150" height="812" alt="Screenshot from 2026-08-07 16-35-50" src="https://github.com/user-attachments/assets/cad41d73-27c1-47ff-b0bf-ae91a505329d" />
 
-<h3>Hide Control Panel</h3>  
+<h3>Disable Control Panel</h3>  
+
+<h4>Steps performed</h4>  
+
+- Opened Group Policy Management
+- Navigated to Forest > Domains > domain.local
+- Right-clicked domain and created new GPO named Disable Control Panel
+- Navigated to User Configuration > Policies > Administrative Templates > Display
+- Enabled "Prohibit access to Control Panel and PC settings"
+- Ran command: gpupdate /force
+
+<h4>Verification</h4>
+System displayed restriction error when attempted to open Control Panel.
+<img width="1147" height="810" alt="Screenshot from 2026-08-07 16-49-03" src="https://github.com/user-attachments/assets/e38fa863-a0a7-42ae-9d6b-964109349c16" />
 
 <h3>Map Network Drive</h3>
 
