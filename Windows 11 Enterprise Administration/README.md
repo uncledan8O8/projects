@@ -180,18 +180,3 @@ Verify that drivers are installed.
 - Used Update Driver option to check for newer drivers
 
 <img width="773" height="562" alt="Screenshot from 2026-08-07 19-17-57" src="https://github.com/user-attachments/assets/770d9f6e-b424-41ea-96b2-5e9c276b9321" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
