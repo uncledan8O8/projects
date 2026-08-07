@@ -277,6 +277,18 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 
 <h3>Password reset</h3>  
 
+<h4>Steps performed</h4>  
+
+- Navigated to Active Directory Users and Computers > domain.local > Company > Departments > HR
+- Right-clicked user Peter PP. Parker and chose "Reset Password"
+- Created new password and checked "User must change password at next logon"
+
+<h4>Verification</h4>
+
+Windows asked user to change password.  
+
+<img width="1141" height="854" alt="Screenshot from 2026-08-07 18-02-25" src="https://github.com/user-attachments/assets/6f0a2024-dcfa-469d-aafe-ce1d2844bdaa" />
+
 <h3>Unlock account</h3>  
 
 <h3>Disable user</h3>  
