@@ -156,9 +156,6 @@ Disabled IPv6 on the client:
 ipconfig /flushdns  
 ipconfig /registerdns
 
-<h3>Results</h3>  
-Windows 11 machine successfully joined domain.local. User was able to authenticate using domain user account.
-
 <h2>Basic Group Policy</h2>  
 
 <h3>Password Policy</h3>  
