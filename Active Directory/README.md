@@ -117,11 +117,9 @@ Join Windows 11 machines to the Domain so users can authenticate using domain ac
 <h3>Configure DNS</h3>  
 
 Changed Prefered DNS on Windows 11 machines.
-
 <img width="967" height="702" alt="Screenshot 2026-07-24 214043" src="https://github.com/user-attachments/assets/1f8223c4-f553-480c-9e3e-c06f1f705abe" />  
 
 Confirmed communication with Domain Controller. 
-
 <img width="974" height="508" alt="Screenshot 2026-07-24 214349" src="https://github.com/user-attachments/assets/235de8c6-4dbd-4aab-852f-2cbf30794953" />
 
 <h3>Join the Domain</h3>  
@@ -234,6 +232,7 @@ Attempt to log in with wrong password 5 times results in account lockout.
 - Applied and ran command: gpupdate /force
 
 <h4>Verification<h4>
+  
 Wallpaper is successfully changed.
   
 <img width="1150" height="812" alt="Screenshot from 2026-08-07 16-35-50" src="https://github.com/user-attachments/assets/cad41d73-27c1-47ff-b0bf-ae91a505329d" />
@@ -250,6 +249,7 @@ Wallpaper is successfully changed.
 - Ran command: gpupdate /force
 
 <h4>Verification</h4>
+
 System displayed restriction error when attempted to open Control Panel.
 
 <img width="1147" height="810" alt="Screenshot from 2026-08-07 16-49-03" src="https://github.com/user-attachments/assets/e38fa863-a0a7-42ae-9d6b-964109349c16" />
@@ -268,6 +268,7 @@ System displayed restriction error when attempted to open Control Panel.
 - Ran command: gpupdate /force
 
 <h4>Verification</h4>
+
 Drive successfully mapped for members of HR group.
 
 <img width="778" height="585" alt="Screenshot from 2026-08-07 17-32-20" src="https://github.com/user-attachments/assets/b6afafa8-5b45-4e59-90f4-83bb39cecba3" />
