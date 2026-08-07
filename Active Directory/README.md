@@ -291,6 +291,19 @@ Windows asked user to change password.
 
 <h3>Unlock account</h3>  
 
+<h4>Steps performed</h4>  
+
+- Entered wrong password 5 times to lock account
+- Navigated to Active Directory Users and Computers > domain.local > Company > Departments > HR
+- Right-clicked user Peter PP. Parker and chose "Properties"
+- Selected "Account" tab and checked "Unlock account" then applied
+
+<h4>Verification</h4>
+
+User is able sign-in successfully.
+
+<img width="1119" height="835" alt="Screenshot from 2026-08-07 18-10-57" src="https://github.com/user-attachments/assets/a1eb94b9-dc82-43eb-8bf8-e8e6ea0bb552" />
+
 <h3>Disable user</h3>  
 
 <h3>Move users between OUs</h3>  
