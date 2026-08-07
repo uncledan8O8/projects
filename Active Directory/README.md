@@ -157,24 +157,10 @@ ipconfig /registerdns
 <h3>Results</h3>  
 Windows 11 machine successfully joined domain.local. User was able to authenticate using domain user account.
 
-<h2>Domain User Account Management</h2>
-
-<h3>Objective</h3>
-Simulate common Active Directory user account tasks performed by IT Technicians.
-
-<h3>Password reset</h3>  
-
-<h3>Unlock account</h3>  
-
-<h3>Disable user</h3>  
-
-<h3>Move users between OUs</h3>  
-
-
 <h2>Basic Group Policy</h2>  
 
-<h2>Password Policy</h2>  
-<h3>Steps performed</h3>  
+<h3>Password Policy</h3>  
+<h4>Steps performed</h4>  
 
 - Opened Server Manager
 - Selected Tools > Group Policy Management
@@ -205,11 +191,46 @@ Password "Ilovecookies!123" meet password policy.
 
 
 <h3>Account Lockout Policy</h3>  
+<h4>Steps performed</h4>  
 
+- Opened Server Manager
+- Selected Tools > Group Policy Management
+- Expanded Forest > Domains > domain.local
+- Right-clicked Default Domain Policy > Edit...
+- Navigated to Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Account Lockout Policy
+- Configured Account Lockout Policy
+- Ran gpupdate /force
 
+<h4>Configuration</h4>
+
+|  Setting | Value |
+|----------|-------|
+| Account lockout threshold | 5 |
+| Account lockout duration | 15 minutes |
+| Reset account lockout counter after | 15 minutes |
+
+<h4>Verification</h4>
+
+Attempt to log in with wrong password 5 times results in account lockout.
+<img width="1150" height="862" alt="Screenshot from 2026-08-07 15-15-58" src="https://github.com/user-attachments/assets/ecb2a19d-f3b8-45dc-8d24-99ff1010714d" />
 
 <h3>Desktop Wallpaper</h3>  
 
 <h3>Hide Control Panel</h3>  
 
 <h3>Map Network Drive</h3>
+
+<h2>Domain User Account Management</h2>
+
+<h3>Objective</h3>
+Simulate common Active Directory user account tasks performed by IT Technicians.
+
+<h3>Password reset</h3>  
+
+<h3>Unlock account</h3>  
+
+<h3>Disable user</h3>  
+
+<h3>Move users between OUs</h3>  
+
+
