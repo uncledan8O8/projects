@@ -199,7 +199,7 @@ Password "Ilovecookies!123" meet password policy.
 - Right-clicked Default Domain Policy > Edit...
 - Navigated to Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Account Lockout Policy
 - Configured Account Lockout Policy
-- Ran gpupdate /force
+- Ran command: gpupdate /force
 
 <h4>Configuration</h4>
 
@@ -215,6 +215,21 @@ Attempt to log in with wrong password 5 times results in account lockout.
 <img width="1150" height="862" alt="Screenshot from 2026-08-07 15-15-58" src="https://github.com/user-attachments/assets/ecb2a19d-f3b8-45dc-8d24-99ff1010714d" />
 
 <h3>Desktop Wallpaper</h3>  
+
+<h4>Steps performed</h4>  
+
+- Created folder named Wallpaper
+- Created wallpaper named wallpaper in JPEG format
+- Shared Wallpaper folder
+- Opened Group Policy Management
+- Navigated to Forest > Domains > domain.local
+- Right-clicked domain and created new GPO named Wallpaper
+- Navigated to User Configuration > Policies > Administrative Templates > Desktop > Desktop
+- Enabled Desktop Wallpaper and specified Shared Folder path \\DC\Wallpaper/wallpaper.jpg
+- Applied and ran command: gpupdate /force
+
+<h4>Verification<h4>
+<img width="1150" height="812" alt="Screenshot from 2026-08-07 16-35-50" src="https://github.com/user-attachments/assets/cad41d73-27c1-47ff-b0bf-ae91a505329d" />
 
 <h3>Hide Control Panel</h3>  
 
