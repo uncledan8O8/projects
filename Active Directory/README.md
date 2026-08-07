@@ -106,6 +106,7 @@ Sales:
 - Will Smith
 
 <h4>Added users to Security Groups</h4>  
+
 <img width="751" height="503" alt="Screenshot 2026-07-24 213133" src="https://github.com/user-attachments/assets/7eb578e4-cac9-457c-8650-a957603784aa" />
 
 <h2>Join Windows 11 to the Domain</h2>  
@@ -115,10 +116,12 @@ Join Windows 11 machines to the Domain so users can authenticate using domain ac
 
 <h3>Configure DNS</h3>  
 
-Changed Prefered DNS on Windows 11 machines  
+Changed Prefered DNS on Windows 11 machines.
+
 <img width="967" height="702" alt="Screenshot 2026-07-24 214043" src="https://github.com/user-attachments/assets/1f8223c4-f553-480c-9e3e-c06f1f705abe" />  
 
-Confirmed communication with Domain Controller  
+Confirmed communication with Domain Controller. 
+
 <img width="974" height="508" alt="Screenshot 2026-07-24 214349" src="https://github.com/user-attachments/assets/235de8c6-4dbd-4aab-852f-2cbf30794953" />
 
 <h3>Join the Domain</h3>  
@@ -130,7 +133,8 @@ Confirmed communication with Domain Controller
 - Signed in with username and password
 - Restarted machine
 
-<h3>Verification</h3>
+<h3>Verification</h3>  
+
 Windows 11 joined domain successfully and all users are able to sign-in.
 
 <img width="1146" height="860" alt="Screenshot 2026-07-24 230825" src="https://github.com/user-attachments/assets/4085348d-3ed5-4414-a060-1f64f23709e8" />
@@ -212,6 +216,7 @@ Password "Ilovecookies!123" meet password policy.
 <h4>Verification</h4>
 
 Attempt to log in with wrong password 5 times results in account lockout.
+
 <img width="1150" height="862" alt="Screenshot from 2026-08-07 15-15-58" src="https://github.com/user-attachments/assets/ecb2a19d-f3b8-45dc-8d24-99ff1010714d" />
 
 <h3>Desktop Wallpaper</h3>  
@@ -230,6 +235,7 @@ Attempt to log in with wrong password 5 times results in account lockout.
 
 <h4>Verification<h4>
 Wallpaper is successfully changed.
+  
 <img width="1150" height="812" alt="Screenshot from 2026-08-07 16-35-50" src="https://github.com/user-attachments/assets/cad41d73-27c1-47ff-b0bf-ae91a505329d" />
 
 <h3>Disable Control Panel</h3>  
@@ -245,6 +251,7 @@ Wallpaper is successfully changed.
 
 <h4>Verification</h4>
 System displayed restriction error when attempted to open Control Panel.
+
 <img width="1147" height="810" alt="Screenshot from 2026-08-07 16-49-03" src="https://github.com/user-attachments/assets/e38fa863-a0a7-42ae-9d6b-964109349c16" />
 
 <h3>Map Network Drive</h3>
@@ -262,6 +269,7 @@ System displayed restriction error when attempted to open Control Panel.
 
 <h4>Verification</h4>
 Drive successfully mapped for members of HR group.
+
 <img width="778" height="585" alt="Screenshot from 2026-08-07 17-32-20" src="https://github.com/user-attachments/assets/b6afafa8-5b45-4e59-90f4-83bb39cecba3" />
 
 
