@@ -1,5 +1,9 @@
-<h1>Custom PC optimized for virtualization and gaming.</h1>  
-</br>
+<h1>Custom PC optimised for virtualization and gaming.</h1>  
+</br>  
+
+<h2>Objective</h2>  
+Build a custom PC that meets requirements.
+
 <h2>Requirements</h2>  
 
 - Budget £700  
