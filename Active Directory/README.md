@@ -11,9 +11,7 @@ Learn and demonstrate basic Active Directory administration tasks using Windows 
 - Creating Organizational Units (OUs)
 - Creating User Accounts
 - Creating Security Groups
-- Resetting passwords
-- Unlocking User Accounts
-- Moving users between OUs
+- Domain User Account Management
 - Basic Group Policy configuration
 
 <h2>Windows Server 2022 installation</h2>  
