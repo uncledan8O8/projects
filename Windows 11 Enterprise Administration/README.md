@@ -134,6 +134,19 @@ Configure Remote Desktop to allow remote administration of Windows 11.
 
 <h4>Steps performed</h4>
 
-- Opened: Settings > System > Remote Desktop
-- Enabled Remote Desktop
--  
+- Navigated to Forest > Domains > domain.local
+- Right-clicked domain.local and created GPO named Enable Remote Desktop
+- Navigated to Computer Configuration > Policies > Administrative Templates > Windows Components > Remote Desktop Services > Remote Desktop Session Host > Connections
+- Enabled Allow users to connect remotely by using Remote Desktop Services
+- Navigate to Computer Configuration > Policies > Windows Settings > Security Settings > Windows Defender Firewall with Advanced Security > Inbound Rules
+- Right-clicked Inbound Rules and New Rules and created TCP 3389 rule
+- Ran command: gpupdate /force
+- Opened Remote Desktop Connection and entered computer name VM1
+
+<h4>Verification</h4>
+
+Administrator successfully connected to VM1 using Remote Desktop Connection.  
+
+<img width="1147" height="859" alt="Screenshot from 2026-08-07 18-52-13" src="https://github.com/user-attachments/assets/2b764b79-aff3-434d-b9e1-d2dd28cbc843" />
+
+
