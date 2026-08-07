@@ -173,8 +173,8 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 
 <h2>Basic Group Policy</h2>  
 
-<h3>Password Policy</h3>  
-<h2>Steps performed</h2>  
+<h2>Password Policy</h2>  
+<h3>Steps performed</h3>  
 
 - Opened Server Manager
 - Selected Tools > Group Policy Management
@@ -205,6 +205,8 @@ Password "Ilovecookies!123" meet password policy.
 
 
 <h3>Account Lockout Policy</h3>  
+
+
 
 <h3>Desktop Wallpaper</h3>  
 
