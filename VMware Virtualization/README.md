@@ -1,8 +1,8 @@
 <h1>VMware Workstation Pro Virtualization Lab</h1>
 </br>
-<h2>Objectives</h2>  
+<h2>Skills Demonstrated</h2>  
 
-- Install VMware Workstation Pro
+- VMware Workstation Pro Installation
 - VMs creation and hardware configuration
 - Snapshot creation and recovery
 - VM cloning
@@ -15,7 +15,7 @@
 - Verified hardware virtualization (Intel VT-x/AMD-V) was enabled.
 - Confirmed VMware launched successfully.
 
-<h2>VM Creation</h2>  
+<h2>VMs creation and hardware configuration</h2>  
 
 <h4>Configuration:</h4>  
 
