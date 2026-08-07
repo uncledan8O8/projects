@@ -1,4 +1,4 @@
-<h1>VMware Workstation Pro Virtualization</h1>
+<h1>VMware Workstation Pro Virtualization Lab</h1>
 </br>
 <h2>Objectives</h2>  
 
