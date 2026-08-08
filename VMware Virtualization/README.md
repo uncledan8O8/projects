@@ -84,8 +84,19 @@ Snapshot recovered successfully.
 
 <img width="1169" height="1000" alt="Screenshot from 2026-08-08 18-39-26" src="https://github.com/user-attachments/assets/235d9c5f-3726-49b2-a8d2-18664cee4917" />
 
+<h2>VM Cloning</h2>
 
+<h3>Steps performed</h3>  
 
+- Right-clicked VM tab and selected Manage > Clone
+- Selected Full Clone and finished wizard
+- Started cloned VM
+
+<h3>Verifiaction</h3>  
+
+Cloned VM started and worked normally.
+
+<img width="1166" height="994" alt="Screenshot from 2026-08-08 18-46-08" src="https://github.com/user-attachments/assets/ba162cae-e74f-41c8-9535-4c20e5028a2f" />
 
 
 
