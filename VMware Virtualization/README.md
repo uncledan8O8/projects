@@ -19,12 +19,12 @@
 
 <h4>Configuration:</h4>  
 
-| Guest OS | Windows 11 Enterprise Evaluation | Windows Server 2022 Evaluation | Ubuntu Server 26.04 LTS |
-|---------|------------|---------------------|-------------------------|
-| CPUs | 4 | 4 | 4 |
-| Memory | 6GB | 8GB | 8GB |
-| Disk | 50GB | 60GB | 40GB |
-| Network | Bridged | Bridged | Bridged |
+| Guest OS | Windows 11 Enterprise Evaluation | Windows Server 2022 Evaluation |
+|---------|------------|---------------------|
+| CPUs | 4 | 4 |
+| Memory | 6GB | 8GB |
+| Disk | 50GB | 60GB |
+| Network | Bridged | Bridged |
 
 <h4>Steps:</h4>  
 
@@ -37,10 +37,6 @@
 - Finished wizard and powered on VMs
 - Installed VMware Tools
 
-<h4>Results:</h4>  
-
-- Windows 11 Enterprise Evaluation worked
-
 <h3>Problems encountered</h3>
 <h4>1. Windows Server 2022 Evaluation asked for licence key</h4>
 <h4>Solution</h4>  
@@ -52,5 +48,16 @@
 <h4>Solution</h4>  
 
 - Enabled firewall inbound rule "File and Printer Sharing (Echo Request - ICMPv4-In)"
+
+<h3>Results</h3>  
+
+Both VMs booted correctly and were able to ping each other.
+
+<img width="1257" height="996" alt="Screenshot from 2026-08-08 18-16-19" src="https://github.com/user-attachments/assets/651d17a7-23a2-4513-98df-41f18dcd2fd4" />
+<img width="1163" height="996" alt="Screenshot from 2026-08-08 18-16-31" src="https://github.com/user-attachments/assets/59a2ca79-815a-4c59-8679-22529808880e" />
+
+
+
+
 
 
