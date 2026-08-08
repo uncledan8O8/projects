@@ -2,11 +2,11 @@
 </br>
 <h2>Skills Demonstrated</h2>  
 
-- VMware Workstation Pro Installation
+- VMware Workstation Pro installation
 - VMs creation and hardware configuration
 - Snapshot creation and recovery
 - VM cloning
-- VM portability and backup
+- VM export
 
 <h2>Installation</h2>  
 
