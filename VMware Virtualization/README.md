@@ -56,6 +56,53 @@ Both VMs booted correctly and were able to ping each other.
 <img width="1257" height="996" alt="Screenshot from 2026-08-08 18-16-19" src="https://github.com/user-attachments/assets/651d17a7-23a2-4513-98df-41f18dcd2fd4" />
 <img width="1163" height="996" alt="Screenshot from 2026-08-08 18-16-31" src="https://github.com/user-attachments/assets/59a2ca79-815a-4c59-8679-22529808880e" />
 
+<h2>Snapshot Creation and Recovery</h2>  
+
+<h3>Snapshot Creation</h3>
+<h4>Steps performed</h4>  
+
+- Opened VM > Snapshot > Take Snapshot
+- Named snapshot and described it
+
+<img width="1034" height="895" alt="Screenshot from 2026-08-08 18-26-44" src="https://github.com/user-attachments/assets/f5f4bb92-a2c6-47ce-9d30-6c8d597a3a75" />
+
+<h4>Created text file to test snapshot recovery.</h4>  
+
+<img width="1162" height="992" alt="Screenshot from 2026-08-08 18-33-50" src="https://github.com/user-attachments/assets/f181c324-468d-49e7-8f81-c31dc54a4677" />
+
+<h3>Snapshot Recovery</h3>
+
+<h4>Steps performed</h4>  
+
+- Opened VM > Snapshot > Snapshot Manager
+- Selected snapshot created before changes
+- Clicked Go To to start recovery
+
+<h4>Verification</h4>  
+
+Snapshot recovered successfully.  
+
+<img width="1169" height="1000" alt="Screenshot from 2026-08-08 18-39-26" src="https://github.com/user-attachments/assets/235d9c5f-3726-49b2-a8d2-18664cee4917" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
