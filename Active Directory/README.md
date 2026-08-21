@@ -140,7 +140,7 @@ Windows 11 joined domain successfully and all users are able to sign-in.
 
 <h3>Problem encountered</h3>  
 
-<h4>Error when tried to change domain</h4>  
+<h4>Error when tried to change domain. (Common on VMware Workstation setup)</h4>  
 <img width="456" height="173" alt="Screenshot 2026-07-24 224240" src="https://github.com/user-attachments/assets/01399267-13fa-48fd-be33-1599ae1a1e9e" />
 
 <h4>Solution</h4>
