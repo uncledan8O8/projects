@@ -127,7 +127,7 @@ Folder accessed from other system on network
 <h2>Remote Desktop</h2>
 
 <h3>Objective</h3>
-Configure Remote Desktop to allow remote administration of Windows 11.
+Configured Remote Desktop using an Active Directory Group Policy.
 
 <h4>Steps performed</h4>
 
@@ -135,8 +135,8 @@ Configure Remote Desktop to allow remote administration of Windows 11.
 - Right-clicked domain.local and created GPO named Enable Remote Desktop
 - Navigated to Computer Configuration > Policies > Administrative Templates > Windows Components > Remote Desktop Services > Remote Desktop Session Host > Connections
 - Enabled Allow users to connect remotely by using Remote Desktop Services
-- Navigate to Computer Configuration > Policies > Windows Settings > Security Settings > Windows Defender Firewall with Advanced Security > Inbound Rules
-- Right-clicked Inbound Rules and New Rules and created TCP 3389 rule
+- Navigated to Computer Configuration > Policies > Windows Settings > Security Settings > Windows Defender Firewall with Advanced Security > Inbound Rules
+- Right-clicked Inbound Rules, selected New Rule, and created a TCP port 3389 rule
 - Ran command: gpupdate /force
 - Opened Remote Desktop Connection and entered computer name VM1
 
@@ -149,7 +149,7 @@ Administrator connected to VM1 using Remote Desktop Connection.
 <h2>Disk Management</h2>
 
 <h3>Objective</h3>
-Shrink partition and use that space to create new partition.
+Shrink a partition and use the unallocated space to create a new partition.
 
 <h3>Steps performed</h3>  
 
@@ -157,7 +157,7 @@ Shrink partition and use that space to create new partition.
 - Right-clicked (C:) partition and selected Shrink Volume
 - Entered the amount of space to shrink in MB: 20000
 - Right-clicked Unallocated space and selected New Simple Volume
-- Assigned drive letter E and finished wizard with default configuration
+- Assigned drive letter E: and finished wizard with default configuration
 
 <h3>Verification</h3>  
 
