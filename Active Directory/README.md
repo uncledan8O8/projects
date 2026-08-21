@@ -52,8 +52,7 @@ Install and configure Active Directory Domain Services on Windows Server 2022 an
 - Selected "Promote this server to a domain controller"
 - Selected "Add a new forest"
 - Named domain
-- Selected Domain function level: Windows Server 2016
-- Selected Domain function level: Windows Server 2016
+- Selected Domain functional level: Windows Server 2016
 - Enabled DNS Server
 - Created DSRM password
 - Completed installation wizard
@@ -116,7 +115,7 @@ Join Windows 11 machines to the Domain so users can authenticate using domain ac
 
 <h3>Configure DNS</h3>  
 
-Changed Prefered DNS on Windows 11 machines.
+Configured Prefered DNS on Windows 11 machines to use Domain Controller's IP address.
 <img width="967" height="702" alt="Screenshot 2026-07-24 214043" src="https://github.com/user-attachments/assets/1f8223c4-f553-480c-9e3e-c06f1f705abe" />  
 
 Confirmed communication with Domain Controller. 
@@ -152,7 +151,7 @@ Disabled IPv6 on the client:
 - Right-clicked Ethernet
 - Selected Properties
 - Unchecked Internet Protocol Version 6 (TCP/IPv6)
-- Opened Command Prompt as Administrator and run:  
+- Opened Command Prompt as Administrator and ran:  
 ipconfig /flushdns  
 ipconfig /registerdns
 
@@ -185,7 +184,7 @@ ipconfig /registerdns
 Password "spiderman" did not meet password length and complexity.
 <img width="786" height="591" alt="Screenshot 2026-07-27 192534" src="https://github.com/user-attachments/assets/3b0f553a-0230-4367-afbc-0a7f229ef2b9" />
 
-Password "Ilovecookies!123" meet password policy.
+Password "Ilovecookies!123" meets password policy.
 <img width="698" height="506" alt="Screenshot 2026-07-27 192758" src="https://github.com/user-attachments/assets/0420991e-2535-437e-90d7-19837c7e2b22" />
 
 
