@@ -1,4 +1,4 @@
-<h1>VMware Workstation Pro Virtualization Lab</h1>
+<h1>VMware Workstation Pro - Virtualization Lab</h1>
 </br>
 <h2>Skills Demonstrated</h2>  
 
@@ -11,7 +11,7 @@
 
 - Downloaded VMware Workstation Pro from Broadcom.
 - Installed using the default configuration.
-- Verified hardware virtualization (Intel VT-x/AMD-V) was enabled.
+- Verified hardware virtualization (Intel VT-x/AMD-V) was enabled in BIOS.
 - Confirmed VMware launched successfully.
 
 <h2>VMs creation and hardware configuration</h2>  
@@ -30,20 +30,20 @@
 - Clicked 'Create a New Virtual Machine'
 - Chose 'Typical' configuration
 - Selected ISO
-- Created Virtual Disk stored as a single file
+- Created a Virtual Disk stored as a single file
 - Allocated CPUs and Memory
-- Configured network adapter to use Bridged to allow VMs communicate with each other and host
+- Configured the network adapter to use Bridged networking to allow VMs communicate with each other and host
 - Finished wizard and powered on VMs
 - Installed VMware Tools
 
 <h3>Problems encountered</h3>
-<h4>1. Windows Server 2022 Evaluation asked for licence key</h4>
+<h4>1. Windows Server 2022 Evaluation asked for license key</h4>
 <h4>Solution</h4>  
 
 - Chose 'I will install operating system later'
 - Finished wizard and added ISO to Virtual CD/DVD Drive
 - Powered on VM and confirmed that it works
-<h4>2. VMs were not able to ping each other</h4>
+<h4>2. VMs were unable to ping each other</h4>
 <h4>Solution</h4>  
 
 - Enabled firewall inbound rule "File and Printer Sharing (Echo Request - ICMPv4-In)"
@@ -91,7 +91,7 @@ Snapshot recovered successfully.
 - Selected Full Clone and finished wizard
 - Started cloned VM
 
-<h3>Verifiaction</h3>  
+<h3>Verifiction</h3>  
 
 Cloned VM started and worked normally.
 
