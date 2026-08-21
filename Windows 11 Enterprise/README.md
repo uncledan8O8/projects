@@ -1,7 +1,7 @@
 <h1>Windows 11 Enterprise Administration Lab</h1>
 </br>
 <h2>Objective</h2>
-Gain hands-on experience administrating Windows 11 Enterprise by completing common tasks.
+Gain hands-on experience administering Windows 11 Enterprise by completing common tasks.
 <h2>Skills Demonstrated</h2>  
 
 - Local user management
@@ -22,8 +22,8 @@ Create different user accounts and assign permissions.
 
 - Opened Computer Management
 - Navigated to Users and Groups
-- Created Standard User
-- Created Administrator User
+- Created Standard User account
+- Created Administrator User account
 - Added Administrator user to Administrators group
 - Tested login
 <img width="983" height="705" alt="Screenshot 2026-07-15 195827" src="https://github.com/user-attachments/assets/0e4a4b25-be39-406f-8b1b-4d9eb2db1332" />
@@ -31,11 +31,11 @@ Create different user accounts and assign permissions.
 <h2>Windows Security</h2>  
 
 <h3>Objective</h3>  
-Review the Windows Security to ensure system is protected.
+Review Windows Security to ensure system is protected.
 
 <h3>Virus & Threat Protection</h3>
 
-- Confirmed that Microsoft Defender was enabled
+- Confirmed that Microsoft Defender Antivirus was enabled
 - Performed Quick Scan
 - Verified that no threats were found
 
@@ -46,7 +46,7 @@ Review the Windows Security to ensure system is protected.
 
 <h3>App & Browser Control</h3>  
 
-- Confirmed that SmartScreen and Smart App Control is enabled to help protect system against malicious websites and applications
+- Confirmed that SmartScreen and Smart App Control are enabled to help protect system against malicious websites and applications
 
 <h3>Device Security</h3>  
 
@@ -61,13 +61,13 @@ No threats were found and all major system protections were enabled.
 
 <h2>Windows Update</h2>
 <h3>Objective</h3>
-Ensure all security and other updates are installed
+Ensure all security and other updates are installed.
 
 <h4>Steps performed</h4>  
 
 - Checked for updates
 - Installed all available updates
-- Verified that system function correctly
+- Verified that system functioned correctly
 <img width="1197" height="933" alt="Screenshot 2026-07-16 191908" src="https://github.com/user-attachments/assets/7f28c7e3-3ce1-4dfb-a665-78b47a8d87c2" />
 
 <h2>Software Installation</h2>
@@ -77,7 +77,7 @@ Ensure all security and other updates are installed
 - VMware Workstation Pro
 - WinRAR
 
-Verified that all applications function correctly  
+Verified that all applications functioned correctly  
 </br>
 <img width="1502" height="1046" alt="Screenshot 2026-07-16 192907" src="https://github.com/user-attachments/assets/6acc6cd5-4f6f-4640-b797-69b2a1e762d3" />
 
@@ -88,7 +88,7 @@ Enable BitLocker Drive Encryption to prevent unauthorised access to operating sy
 <h4>Steps performed</h4>
 
 - Opened BitLocker Drive Encryption control panel
-- Selected C: Driver and clicked "Turn BitLocker on"
+- Selected C: Drive and clicked "Turn BitLocker on"
 - Saved recovery key to secure location
 - Selected "Encrypt entire drive"
 - Chose "Compatible Mode"
@@ -97,7 +97,7 @@ Enable BitLocker Drive Encryption to prevent unauthorised access to operating sy
 
 <h3>Results</h3>  
 
-BitLocker is enabled successfully. Operating system is now encrypted.
+BitLocker was enabled successfully. The operating system is now encrypted.
 
 </br>
 <img width="1121" height="868" alt="Screenshot 2026-07-24 161259" src="https://github.com/user-attachments/assets/b3144386-0f91-4537-a78b-20b89b119686" />
@@ -108,12 +108,12 @@ Create shared folder on Windows 11 and manage access using share permissions.
 
 <h4>Steps performed</h4>
 
-- Created folder named TEST in C:\ drive
+- Created folder named TEST on C:\ drive
 - Enabled file sharing for this folder
 - Mapped drive on other system
 - Configured share permissions: Administrators: Full, Standard Users: Read
 - Verified that shared folder is accessible from other system on network
-- Verified that administrators have full control and standard users have read only permission
+- Verified that administrators have full control and standard users have read-only permission
 </br>
 
 Share Permissions  
