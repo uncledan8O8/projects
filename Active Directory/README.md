@@ -224,7 +224,7 @@ Attempt to log in with wrong password 5 times results in account lockout.
 - Navigated to Forest > Domains > domain.local
 - Right-clicked domain and created new GPO named Wallpaper
 - Navigated to User Configuration > Policies > Administrative Templates > Desktop > Desktop
-- Enabled "Desktop Wallpaper" and specified Shared Folder path \\DC\Wallpaper/wallpaper.jpg
+- Enabled "Desktop Wallpaper" and specified Shared Folder path \\DC\Wallpaper\wallpaper.jpg
 - Applied and ran command: gpupdate /force
 
 <h4>Verification<h4>
@@ -260,7 +260,7 @@ System displayed restriction error when attempted to open Control Panel.
 - Right-clicked HR and created new GPO named HR Shared Folder
 - Navigated to User Configuration > Preferences > Windows Settings
 - Right-clicked Drive Maps > New > Mapped Drive
-- Configurations: Action > Create | Location > \\\DC\HR-shared-folder | Drive Letter > Use: Z
+- Configurations: Action > Create | Location > \\DC\HR-shared-folder | Drive Letter > Use: Z
 - Ran command: gpupdate /force
 
 <h4>Verification</h4>
@@ -284,7 +284,7 @@ Simulate common Active Directory user account tasks performed by IT Technicians.
 
 <h4>Verification</h4>
 
-Windows asked user to change password.  
+Windows asked user to change password on next logon.  
 
 <img width="1141" height="854" alt="Screenshot from 2026-08-07 18-02-25" src="https://github.com/user-attachments/assets/6f0a2024-dcfa-469d-aafe-ce1d2844bdaa" />
 
